@@ -1,0 +1,54 @@
+body{
+  background-color: #0ACEA8;
+}
+
+#app{
+  background-color: #fff;
+  padding: 50px;
+  margin: 50px 0;
+  border-radius: 10px;
+}
+
+#input{
+  width: 300px;
+}
+
+#button{
+  width: 75px;
+  background-color: #0acea8;
+  color: #fff;
+  border: none;
+  font-size: 12pt;
+  margin-left: 20px;
+  /*font-family: 'Shadows Into Light', cursive;*/
+}
+
+ul{
+  list-style-type: none;
+  /*background-color: #000;*/
+}
+
+ul li{
+  border-bottom: 1px solid #ccc;
+  margin: 5px;
+  padding: 5px 5px 0 5px;
+  display: block;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20pt;
+  /*background-color: #fff;*/
+}
+
+.done-button{
+  color: green;
+  padding: 5px;
+  margin: 5px;
+  border: solid 1px green;
+  border-radius: 100%;
+}
+
+.glyphicon{
+  font-size: 10pt;
+  margin-right: 20px;
+  margin-left: -50px;
+  cursor: pointer;
+}
